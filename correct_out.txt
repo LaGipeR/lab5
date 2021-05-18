@@ -1,0 +1,9 @@
+ppp adam iii 00000001 2 3.5
+    3 aaa 90 30 60
+    4 zzz 88 32 56
+rrr fred kkk 00000111 0 3.0
+    3 zaz 70 34 36
+qpp bred jii 00000022 0 3.0
+    3 zzz 73 32 41
+qqp elies jji 00000005 0 3.0
+    3 zzz 77 24 53
